@@ -1,6 +1,6 @@
 # Physical_AI_PINN
 **Introduction to PINN**<br>
--Assisted by the chatbots such as Gemini, ChatGPT, and Claude
+-Gemini was used to generate the python code in the pytorch framework as well as discuss how to simulate the temperature change of a hot rod such as a fuel rod in the water cooled nuclear reactor.
 
 ## 1. From data-driven to physics-informed
 In manufacturing, if a "black box" AI predicts a robotic arm should move through a solid steel wall because that's the "fastest path," you have a multi-million dollar disaster, whereas in computer vision, if an AI predicts a normal for a cancer, the consequence is a wrong label that may have some room for a human intervention. 
